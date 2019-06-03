@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:text="Catalogo de Livros"
-            android:textSize="24sp" />
+            android:textSize="36sp" />
 
     </LinearLayout>
 
